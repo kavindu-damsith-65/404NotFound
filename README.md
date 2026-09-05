@@ -1,17 +1,31 @@
+<div align="center">
+
 # 404NotFound
 
-This repository was reserved for the 404NotFound project workspace. It does not currently contain an implementation, but remains available as part of my development archive.
+**Reserved project workspace**
 
-## What this repository covers
+<img src="https://img.shields.io/badge/Archive-4F86FF?style=flat-square&labelColor=0B1224" alt="Archive" /> <img src="https://img.shields.io/badge/Public_repository-4F86FF?style=flat-square&labelColor=0B1224" alt="Public repository" />
 
-- Reserved project space
-- No application source has been committed
-- Kept for historical continuity
+[Portfolio](https://kavindudamsith.tech/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/kavindu-damsith-86696722a/) &nbsp;|&nbsp; [Email](mailto:kavindudamsith65@gmail.com)
 
-## Project status
-
-Archived placeholder
+</div>
 
 ---
 
-Built by [Kavindu Damsith](https://kavindudamsith.tech/) Â· [LinkedIn](https://www.linkedin.com/in/kavindu-damsith-86696722a/) Â· [Email](mailto:kavindudamsith65@gmail.com)
+## Repository status
+
+No application source was committed to this repository. It is kept as a small historical placeholder rather than being presented as a completed project.
+
+| Detail | Value |
+| --- | --- |
+| **Code on the default branch** | No maintained implementation |
+| **Classification** | Placeholder / historical archive |
+| **Access** | Public repository |
+
+## Why it remains
+
+The repository is retained to preserve project history and avoid losing references to an earlier workspace. It should not be used as an example of current production work.
+
+---
+
+For current work, visit [my portfolio](https://kavindudamsith.tech/) or [GitHub profile](https://github.com/kavindu-damsith-65).
